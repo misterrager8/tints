@@ -1,7 +1,10 @@
 :root,
-html[data-theme="dark-purple"] {
-  --primary-bg: #1a1a1a;
-  --primary-txt: #cccccc;
-  --btn-color: #eeddeb;
-  --btn-hover-txt: #1a1a1a;
+html[data-theme="cherry-denim"] {
+  --primary-bg: #dcd2d0;
+  --primary-txt: #201613;
+
+  --secondary-color: #bba7a5;
+
+  --btn-color: #15486f;
+  --btn-hover-txt: #dcd2d0;
 }
